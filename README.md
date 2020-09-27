@@ -1,3 +1,1 @@
-# Undergraduate-Project
-# Undergraduate-Project
-# Undergraduate-Project
+# An Android weather forecast app
