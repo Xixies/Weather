@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cloud</string>
+
+    <string name="left_fragment">I am the left fragment</string>
+    <string name="right_fragment">I am the right fragment</string>
+    <string name="Today">Today</string>
+    <string name="Default_date">January 1</string>
+    <string name="Default_high">0°</string>
+    <string name="Default_low">0°</string>
+
+    <string name="Humidity">Humidity:</string>
+    <string name="Default_humidity">0</string>
+    <string name="Humidity_unit">%</string>
+    <string name="Pressure">Pressure:</string>
+    <string name="Default_pressure">0</string>
+    <string name="Pressure_unit">hPa</string>
+    <string name="Wind">Wind:</string>
+    <string name="Default_wind">0</string>
+    <string name="Wind_unit">km/h W</string>
+
+    <string name="Weather_sunny">Sunny</string>
+    <string name="Weather_cloudy">Cloudy</string>
+    <string name="Weather_overcast">Overcast</string>
+    <string name="Weather_softrain">Soft Rain</string>
+    <string name="Weather_mediumrain">Medium Rain</string>
+    <string name="Weather_heavyrain">Heavy Rain</string>
+
+
+</resources>
